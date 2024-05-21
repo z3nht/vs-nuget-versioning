@@ -28,6 +28,7 @@ namespace vs_nuget_versioning
 
             //adding comments to test Gitversion
             // c2
+            // c3
             app.Run();
         }
     }
