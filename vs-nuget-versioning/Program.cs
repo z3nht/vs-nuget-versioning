@@ -27,6 +27,7 @@ namespace vs_nuget_versioning
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             //adding comments to test Gitversion
+            // c2
             app.Run();
         }
     }
