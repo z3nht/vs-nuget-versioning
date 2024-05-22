@@ -33,6 +33,7 @@ namespace vs_nuget_versioning
             // c5
             // c6
             // c7
+            // h1
             app.Run();
         }
     }
